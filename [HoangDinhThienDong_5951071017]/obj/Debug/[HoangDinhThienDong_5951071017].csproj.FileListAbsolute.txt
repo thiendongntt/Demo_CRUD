@@ -1,0 +1,10 @@
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\bin\Debug\[HoangDinhThienDong_5951071017].exe.config
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\bin\Debug\[HoangDinhThienDong_5951071017].exe
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\bin\Debug\[HoangDinhThienDong_5951071017].pdb
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\obj\Debug\_HoangDinhThienDong_5951071017_.Form1.resources
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\obj\Debug\_HoangDinhThienDong_5951071017_.Properties.Resources.resources
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\obj\Debug\[HoangDinhThienDong_5951071017].csproj.GenerateResource.cache
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\obj\Debug\[HoangDinhThienDong_5951071017].csproj.CoreCompileInputs.cache
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\obj\Debug\[HoangDinhThienDong_5951071017].exe
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\obj\Debug\[HoangDinhThienDong_5951071017].pdb
+C:\Users\THIEN DONG\source\repos\[HoangDinhThienDong_5951071017]\[HoangDinhThienDong_5951071017]\obj\Debug\[HoangDinhThienDong_5951071017].csprojAssemblyReference.cache
